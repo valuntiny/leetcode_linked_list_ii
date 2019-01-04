@@ -13,16 +13,16 @@ c = a
 d = None
 
 if a is b:
-    print "T"
+    print("T")
 else:
-    print "F"
+    print("F")
 
 if a is c:
-    print "T"
+    print("T")
 else:
-    print "F"
+    print("F")
 
 if d:
-    print "T"
+    print("T")
 else:
-    print "F"
+    print("F")
